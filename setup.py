@@ -23,7 +23,7 @@ setup(
         'Framework :: Django',
     ],
     install_requires=[
-        'Django>=1.4',
+        'Django>=1.4, <1.5',
         'django-extensions>=0.9',
     ],
     #test_suite='tests.runtests.runtests',
